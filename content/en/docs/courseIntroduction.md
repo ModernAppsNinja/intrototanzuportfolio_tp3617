@@ -4,17 +4,6 @@ date: 2020-10-12T18:34:25-07:00
 weight: 1004
 ---
 
-- [About this Course](#about-this-course)
-- [Prerequisites](#prerequisites)
-- [Course Input & Feedback](#course-input--feedback)
-- [Content Accuracy and Refresh Cycle](#content-accuracy-and-refresh-cycle)
-- [Enrollment, Tests & Completion Badge](#enrollment-tests--completion-badge)
-  - [Enroll for this course](#enroll-for-this-course)
-    - [Step 1 - Open the new course enrollment document link](#step-1---open-the-new-course-enrollment-document-link)
-    - [Step 2 - Name your file](#step-2---name-your-file)
-    - [Step 3 - Add a line to your file](#step-3---add-a-line-to-your-file)
-    - [Step 4 - Submit your enrollment document](#step-4---submit-your-enrollment-document)
-
 ## Important Notice:
 
 **The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.**
