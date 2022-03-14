@@ -20,7 +20,7 @@ Please see the following video for a brief overview of the VMware Tanzu Advanced
 
 ### The DevSecOps Transformation
 
-Automating and accelerating the path from code to production in a consistent and repeatable way means building a platform for developers. As observed in the latest State of DevOps report, internal platforms are a hallmark of DevOps high performers. But these platforms have to be "a compelling option" for application teams. Tanzu Advanced is a solution for securing the container lifecycle while reducing developer toil. 
+Automating and accelerating the path from code to production in a consistent and repeatable way means building a platform for developers. As observed in the latest State of DevOps report, internal platforms are a hallmark of DevOps high performers. But these platforms have to be "a compelling option" for application teams. Tanzu Advanced is a solution for securing the container lifecycle while reducing developer toil.
 
 Building a DevSecOps platform requires a product mindset for continuous improvement. Tanzu makes it easier for DevOps platform builders to create a compelling developer experience and meet security requirements.
 
@@ -32,7 +32,7 @@ Please see the following video for a brief introduction and demo of VMware Tanzu
 
 Developers are adopting new app architectures, like microservices, serverless, and reactive patterns. According to the [2020 State of Spring survey](https://tanzu.vmware.com/content/ebooks/state-of-spring-2020), 83 percent of Spring developers are building microservices, with another 33 percent using Reactive and 32 percent developing serverless applications. These new patterns aren't frivolous pursuits of the intellectually curious. They deliver material value, such as supporting faster time to production of new features, or a better user experience in the face of latency and complex processing.
 
-How do we enable adoption of these patterns and remove friction in the developer experience? The less time a developer has to spend engineering how a new thing will work, the better. That takes developer-friendly collaboration and platform services that offload architectural infrastructure. 
+How do we enable adoption of these patterns and remove friction in the developer experience? The less time a developer has to spend engineering how a new thing will work, the better. That takes developer-friendly collaboration and platform services that offload architectural infrastructure.
 
 Many modern architectures come at some cost of complexity. Offloading what developers have to spend time on is essential for adoption. Tanzu makes it easier for developers to focus on their business or integration logic, and spend less time engineering system infrastructure.
 
@@ -57,6 +57,7 @@ VMware Tanzu Application Service for VMs (TAS) is a modern application platform 
 TAS for VMs provides application development teams an automated path to production for custom code, and a secure, highly available runtime that scales to support the most demanding operations teams.
 
 Key Benefits include:
+
 - **Speed:** Tanzu Application Service enables rapid time to value for your custom code by managing everything else for you.
 - **Scalability:** Tanzu Application Service uses Cloud Foundry BOSH to help deliver enterprise SLAs as the business grows.
 - **Secure by default:** Tanzu Application Service is highly automated and improves the security posture across the application portfolio, dramatically lowering risks posed by manual processes.
@@ -110,5 +111,4 @@ You can find additional information at the following Links:
 - **Tanzu and the App Transformation:**
   - [Tanzu Application Platform Overview and Deep Dive](https://youtu.be/9kD7wa407K4)
 
-
-**Section Complete. Please use the navigation bar to proceed to the next page**
+**Congratulations, you have completed the course!**
